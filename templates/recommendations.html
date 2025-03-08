@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recommendations</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #f953c6, #b91d73);
+            color: white;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 700px;
+            margin: 50px auto;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.5);
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+        .error {
+            color: #ff6f61;
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            background: #1e1e1e;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 5px;
+        }
+        a {
+            color: #ff6f61;
+            text-decoration: none;
+        }
+        button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            background: #6a11cb;
+            color: white;
+            font-size: 1em;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #2575fc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        {% if error %}
+            <h1>Error</h1>
+            <p class="error">{{ error }}</p>
+        {% else %}
+            <h1>Welcome, {{ student_name }}!</h1>
+            <p>Here are your personalized course recommendations:</p>
+            <ul>
+                {% for course in recommendations %}
+                    <li>
+                        <strong>Course Name:</strong> {{ course.name }}<br>
+                        <strong>Provider:</strong> {{ course.provider }}<br>
+                        <strong>Difficulty:</strong> {{ course.difficulty }}
+                    </li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+        <button onclick="window.location.href='/'">Go Back</button>
+    </div>
+</body>
+</html>

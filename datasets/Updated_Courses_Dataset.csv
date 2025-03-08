@@ -1,0 +1,377 @@
+Course_ID,Course_Name,Domain,Provider,Difficulty,Course_Duration
+C001,Computer Vision,Statistics,Khan Academy,5,60
+C002,Python Programming,Cloud Computing,Khan Academy,4,30
+C003,Machine Learning,Big Data,Udemy,2,30
+C004,Time Series Analysis,Computer Vision,Udemy,3,60
+C005,Business Analytics,Data Engineering,Coursera,2,30
+C006,Data Visualization,Statistics,Pluralsight,5,70
+C007,Machine Learning,Machine Learning,edX,3,50
+C008,Cloud Computing,Deep Learning,Udemy,2,30
+C009,Deep Learning,Business Analytics,Coursera,2,40
+C010,Deep Learning,Computer Vision,Coursera,3,70
+C011,Natural Language Processing,Data Engineering,Khan Academy,2,30
+C012,Machine Learning,Data Science,Pluralsight,4,70
+C013,Natural Language Processing,Machine Learning,FutureLearn,5,70
+C014,Computer Vision,Artificial Intelligence,FutureLearn,1,30
+C015,Statistics for Data Science,Data Science,Udemy,3,30
+C016,Business Analytics,Statistics,edX,1,60
+C017,Artificial Intelligence,Business Analytics,Coursera,1,60
+C018,Data Engineering,Deep Learning,Pluralsight,1,50
+C019,Statistics for Data Science,Data Engineering,edX,3,40
+C020,Data Visualization,Data Science,edX,4,50
+C021,Big Data Tools,Data Engineering,FutureLearn,3,50
+C022,Data Science,Business Analytics,Khan Academy,4,50
+C023,Cloud Computing,Machine Learning,Pluralsight,4,50
+C024,Computer Vision,Business Analytics,Coursera,3,70
+C025,Big Data Analytics,Computer Vision,Udemy,5,60
+C026,Data Engineering,Cloud Computing,Coursera,5,50
+C027,Python Programming,Statistics,Udemy,5,60
+C028,Data Visualization,Statistics,Udemy,2,50
+C029,Big Data Tools,Statistics,Coursera,5,40
+C030,Deep Learning,Cloud Computing,Coursera,2,50
+C031,Data Visualization,Business Analytics,edX,2,60
+C032,Data Engineering,Machine Learning,Coursera,5,70
+C033,Big Data Analytics,Statistics,Udemy,5,50
+C034,Python Programming,Computer Vision,Udemy,1,60
+C035,Time Series Analysis,Artificial Intelligence,Pluralsight,2,70
+C036,Time Series Analysis,Computer Vision,edX,2,30
+C037,Machine Learning,Big Data,Pluralsight,4,60
+C038,Natural Language Processing,Machine Learning,Khan Academy,1,30
+C039,Big Data Tools,Deep Learning,edX,3,50
+C040,Artificial Intelligence,Statistics,Pluralsight,1,60
+C041,Data Visualization,Deep Learning,Khan Academy,5,70
+C042,Artificial Intelligence,Machine Learning,Khan Academy,1,30
+C043,Artificial Intelligence,Machine Learning,Khan Academy,3,50
+C044,Statistics for Data Science,Computer Vision,FutureLearn,5,30
+C045,Big Data Analytics,Computer Vision,Khan Academy,1,50
+C046,Data Engineering,Deep Learning,Udemy,2,30
+C047,Machine Learning,Deep Learning,Udemy,1,70
+C048,Natural Language Processing,Business Analytics,FutureLearn,5,70
+C049,Data Science,Artificial Intelligence,Udemy,3,70
+C050,Statistics for Data Science,Computer Vision,Udemy,2,30
+C051,Big Data Tools,Cloud Computing,Coursera,2,60
+C052,Artificial Intelligence,Computer Vision,Udemy,5,30
+C053,Statistics for Data Science,Business Analytics,Pluralsight,5,30
+C054,Cloud Computing,Machine Learning,Khan Academy,1,70
+C055,Statistics for Data Science,Deep Learning,Khan Academy,3,70
+C056,Business Analytics,Big Data,Udemy,2,60
+C057,Business Analytics,Cloud Computing,edX,3,40
+C058,Time Series Analysis,Cloud Computing,FutureLearn,2,60
+C059,Data Visualization,Cloud Computing,Udemy,3,60
+C060,Big Data Analytics,Cloud Computing,Pluralsight,5,40
+C061,Big Data Analytics,Data Science,FutureLearn,4,50
+C062,Big Data Tools,Machine Learning,Coursera,2,60
+C063,Data Visualization,Data Engineering,edX,4,50
+C064,Machine Learning,Cloud Computing,Pluralsight,5,60
+C065,Business Analytics,Deep Learning,Udemy,4,70
+C066,Data Science,Data Science,Pluralsight,4,60
+C067,Big Data Analytics,Business Analytics,Coursera,4,30
+C068,Data Visualization,Big Data,Coursera,3,60
+C069,Time Series Analysis,Big Data,FutureLearn,3,40
+C070,Big Data Analytics,Statistics,Khan Academy,5,50
+C071,Artificial Intelligence,Cloud Computing,Khan Academy,4,30
+C072,Statistics for Data Science,Statistics,edX,4,70
+C073,Cloud Computing,Data Science,Coursera,1,40
+C074,Cloud Computing,Computer Vision,Coursera,2,70
+C075,Big Data Tools,Data Science,Pluralsight,4,50
+C076,Computer Vision,Cloud Computing,FutureLearn,2,60
+C077,Machine Learning,Data Engineering,edX,3,60
+C078,Cloud Computing,Statistics,FutureLearn,5,50
+C079,Statistics for Data Science,Computer Vision,edX,2,60
+C080,Artificial Intelligence,Data Engineering,FutureLearn,5,40
+C081,Artificial Intelligence,Big Data,Pluralsight,1,70
+C082,Machine Learning,Machine Learning,Coursera,4,30
+C083,Python Programming,Artificial Intelligence,Pluralsight,3,30
+C084,Business Analytics,Data Science,Udemy,1,30
+C085,Machine Learning,Statistics,Coursera,4,30
+C086,Artificial Intelligence,Big Data,Coursera,4,40
+C087,Big Data Analytics,Data Science,Udemy,3,50
+C088,Data Visualization,Data Engineering,edX,2,40
+C089,Natural Language Processing,Artificial Intelligence,edX,2,70
+C090,Deep Learning,Business Analytics,FutureLearn,5,30
+C091,Big Data Analytics,Business Analytics,edX,3,30
+C092,Big Data Analytics,Artificial Intelligence,Udemy,2,70
+C093,Big Data Analytics,Business Analytics,Coursera,3,70
+C094,Data Visualization,Cloud Computing,Udemy,3,40
+C095,Machine Learning,Statistics,Coursera,1,30
+C096,Data Science,Cloud Computing,Udemy,5,60
+C097,Data Engineering,Data Science,edX,1,60
+C098,Artificial Intelligence,Business Analytics,Khan Academy,4,30
+C099,Python Programming,Cloud Computing,Pluralsight,2,70
+C100,Artificial Intelligence,Deep Learning,Udemy,4,70
+C101,Natural Language Processing,Cloud Computing,FutureLearn,2,50
+C102,Cloud Computing,Deep Learning,Khan Academy,4,30
+C103,Deep Learning,Artificial Intelligence,FutureLearn,5,60
+C104,Time Series Analysis,Machine Learning,Pluralsight,1,30
+C105,Machine Learning,Artificial Intelligence,Udemy,2,40
+C106,Computer Vision,Artificial Intelligence,Khan Academy,5,30
+C107,Statistics for Data Science,Artificial Intelligence,Coursera,2,50
+C108,Machine Learning,Big Data,Pluralsight,3,40
+C109,Python Programming,Business Analytics,Coursera,4,70
+C110,Deep Learning,Machine Learning,Khan Academy,4,30
+C111,Cloud Computing,Big Data,edX,2,60
+C112,Artificial Intelligence,Data Science,Pluralsight,2,50
+C113,Statistics for Data Science,Data Science,Khan Academy,2,60
+C114,Big Data Analytics,Artificial Intelligence,edX,1,70
+C115,Computer Vision,Deep Learning,Udemy,3,50
+C116,Data Engineering,Business Analytics,Coursera,2,70
+C117,Data Science,Cloud Computing,Coursera,1,70
+C118,Artificial Intelligence,Business Analytics,Coursera,4,50
+C119,Business Analytics,Computer Vision,FutureLearn,2,70
+C120,Artificial Intelligence,Deep Learning,Khan Academy,4,60
+C121,Cloud Computing,Statistics,Pluralsight,5,60
+C122,Time Series Analysis,Machine Learning,Pluralsight,5,50
+C123,Big Data Analytics,Big Data,Khan Academy,2,70
+C124,Data Engineering,Data Engineering,FutureLearn,5,70
+C125,Python Programming,Machine Learning,FutureLearn,3,60
+C126,Big Data Tools,Data Engineering,Khan Academy,5,30
+C127,Statistics for Data Science,Cloud Computing,edX,4,50
+C128,Python Programming,Artificial Intelligence,edX,4,50
+C129,Python Programming,Computer Vision,edX,3,70
+C130,Natural Language Processing,Big Data,FutureLearn,5,60
+C131,Big Data Analytics,Data Engineering,Coursera,4,60
+C132,Deep Learning,Artificial Intelligence,Udemy,2,30
+C133,Business Analytics,Data Engineering,edX,2,60
+C134,Big Data Tools,Cloud Computing,Pluralsight,4,60
+C135,Data Science,Business Analytics,Coursera,1,30
+C136,Business Analytics,Data Engineering,FutureLearn,3,40
+C137,Big Data Analytics,Statistics,Udemy,3,70
+C138,Big Data Tools,Data Science,Coursera,2,30
+C139,Deep Learning,Cloud Computing,Coursera,1,60
+C140,Natural Language Processing,Statistics,Pluralsight,2,70
+C141,Artificial Intelligence,Data Science,Coursera,1,60
+C142,Computer Vision,Data Science,Khan Academy,1,30
+C143,Cloud Computing,Computer Vision,Coursera,2,50
+C144,Data Science,Data Science,Udemy,2,50
+C145,Deep Learning,Business Analytics,Udemy,4,30
+C146,Time Series Analysis,Business Analytics,Udemy,4,50
+C147,Computer Vision,Deep Learning,Coursera,4,70
+C148,Data Visualization,Cloud Computing,Udemy,1,60
+C149,Artificial Intelligence,Artificial Intelligence,Coursera,5,60
+C150,Data Engineering,Artificial Intelligence,Udemy,2,40
+C151,Big Data Tools,Artificial Intelligence,Khan Academy,2,60
+C152,Cloud Computing,Deep Learning,Udemy,3,70
+C153,Deep Learning,Deep Learning,FutureLearn,4,70
+C154,Cloud Computing,Data Science,FutureLearn,3,60
+C155,Big Data Tools,Artificial Intelligence,FutureLearn,2,40
+C156,Computer Vision,Big Data,Udemy,1,60
+C157,Computer Vision,Machine Learning,Udemy,2,60
+C158,Artificial Intelligence,Big Data,edX,2,50
+C159,Big Data Analytics,Business Analytics,Khan Academy,5,40
+C160,Artificial Intelligence,Deep Learning,Udemy,1,70
+C161,Business Analytics,Cloud Computing,Pluralsight,2,50
+C162,Big Data Tools,Business Analytics,Udemy,2,30
+C163,Time Series Analysis,Data Engineering,Pluralsight,5,60
+C164,Cloud Computing,Cloud Computing,Khan Academy,2,30
+C165,Big Data Analytics,Deep Learning,Khan Academy,4,40
+C166,Cloud Computing,Computer Vision,Coursera,5,70
+C167,Data Visualization,Data Science,FutureLearn,4,50
+C168,Python Programming,Deep Learning,Coursera,3,50
+C169,Python Programming,Big Data,Pluralsight,1,70
+C170,Artificial Intelligence,Deep Learning,Coursera,5,30
+C171,Python Programming,Statistics,FutureLearn,1,70
+C172,Computer Vision,Statistics,FutureLearn,4,50
+C173,Data Visualization,Deep Learning,FutureLearn,4,70
+C174,Data Engineering,Computer Vision,Khan Academy,4,60
+C175,Big Data Analytics,Data Engineering,Udemy,5,70
+C176,Data Science,Business Analytics,edX,5,70
+C177,Machine Learning,Big Data,Udemy,5,60
+C178,Cloud Computing,Machine Learning,Pluralsight,4,70
+C179,Data Engineering,Deep Learning,FutureLearn,2,70
+C180,Natural Language Processing,Cloud Computing,Udemy,3,50
+C181,Statistics for Data Science,Big Data,Coursera,1,40
+C182,Machine Learning,Big Data,Khan Academy,1,70
+C183,Data Engineering,Cloud Computing,Pluralsight,3,50
+C184,Statistics for Data Science,Data Science,Coursera,3,30
+C185,Python Programming,Deep Learning,Udemy,4,30
+C186,Business Analytics,Business Analytics,Udemy,2,60
+C187,Computer Vision,Artificial Intelligence,edX,3,40
+C188,Data Visualization,Big Data,FutureLearn,5,50
+C189,Big Data Tools,Big Data,Udemy,2,50
+C190,Cloud Computing,Cloud Computing,Pluralsight,5,60
+C191,Natural Language Processing,Machine Learning,Coursera,3,40
+C192,Python Programming,Data Science,Pluralsight,2,30
+C193,Big Data Analytics,Business Analytics,FutureLearn,2,40
+C194,Artificial Intelligence,Deep Learning,Udemy,3,50
+C195,Big Data Tools,Computer Vision,Coursera,3,50
+C196,Big Data Analytics,Data Engineering,FutureLearn,1,50
+C197,Statistics for Data Science,Statistics,Udemy,3,30
+C198,Data Engineering,Artificial Intelligence,Pluralsight,3,70
+C199,Data Visualization,Cloud Computing,Khan Academy,2,40
+C200,Deep Learning,Artificial Intelligence,Pluralsight,2,30
+C201,Business Analytics,Big Data,FutureLearn,5,40
+C202,Deep Learning,Big Data,Udemy,1,60
+C203,Data Engineering,Deep Learning,edX,3,60
+C204,Python Programming,Business Analytics,edX,3,70
+C205,Cloud Computing,Statistics,edX,2,40
+C206,Artificial Intelligence,Big Data,Pluralsight,2,70
+C207,Natural Language Processing,Artificial Intelligence,Coursera,5,70
+C208,Data Engineering,Data Science,edX,4,30
+C209,Artificial Intelligence,Computer Vision,Pluralsight,3,30
+C210,Data Engineering,Cloud Computing,Khan Academy,5,70
+C211,Big Data Tools,Data Science,FutureLearn,3,60
+C212,Time Series Analysis,Data Science,Pluralsight,1,70
+C213,Natural Language Processing,Cloud Computing,Pluralsight,1,60
+C214,Big Data Analytics,Data Science,edX,2,60
+C215,Natural Language Processing,Data Engineering,FutureLearn,5,70
+C216,Time Series Analysis,Statistics,Pluralsight,3,60
+C217,Python Programming,Machine Learning,Khan Academy,2,40
+C218,Python Programming,Big Data,Pluralsight,3,60
+C219,Machine Learning,Statistics,edX,4,60
+C220,Big Data Analytics,Machine Learning,edX,4,30
+C221,Python Programming,Big Data,FutureLearn,1,40
+C222,Cloud Computing,Big Data,Khan Academy,5,60
+C223,Python Programming,Big Data,FutureLearn,4,50
+C224,Business Analytics,Business Analytics,Udemy,3,40
+C225,Cloud Computing,Data Science,edX,5,30
+C226,Data Science,Data Science,Coursera,4,40
+C227,Time Series Analysis,Big Data,edX,4,50
+C228,Data Visualization,Machine Learning,Udemy,3,70
+C229,Business Analytics,Computer Vision,FutureLearn,5,70
+C230,Machine Learning,Artificial Intelligence,Coursera,2,70
+C231,Statistics for Data Science,Computer Vision,Khan Academy,1,60
+C232,Cloud Computing,Business Analytics,Udemy,4,50
+C233,Artificial Intelligence,Artificial Intelligence,Khan Academy,1,70
+C234,Big Data Analytics,Business Analytics,FutureLearn,3,70
+C235,Time Series Analysis,Data Engineering,FutureLearn,1,70
+C236,Artificial Intelligence,Business Analytics,edX,4,40
+C237,Cloud Computing,Cloud Computing,Khan Academy,3,50
+C238,Python Programming,Artificial Intelligence,Udemy,2,50
+C239,Data Science,Cloud Computing,Pluralsight,5,60
+C240,Artificial Intelligence,Artificial Intelligence,Pluralsight,3,60
+C241,Natural Language Processing,Statistics,Coursera,3,50
+C242,Data Visualization,Deep Learning,FutureLearn,3,50
+C243,Machine Learning,Computer Vision,Khan Academy,3,50
+C244,Data Science,Statistics,FutureLearn,3,60
+C245,Big Data Analytics,Data Engineering,Khan Academy,4,60
+C246,Big Data Analytics,Business Analytics,edX,3,30
+C247,Artificial Intelligence,Computer Vision,edX,3,40
+C248,Deep Learning,Computer Vision,Udemy,3,50
+C249,Python Programming,Artificial Intelligence,FutureLearn,2,60
+C250,Time Series Analysis,Data Engineering,Pluralsight,1,60
+C251,Machine Learning,Big Data,FutureLearn,5,30
+C252,Data Science,Statistics,edX,2,40
+C253,Deep Learning,Statistics,Coursera,5,30
+C254,Deep Learning,Computer Vision,edX,2,40
+C255,Big Data Tools,Deep Learning,edX,5,60
+C256,Deep Learning,Business Analytics,FutureLearn,3,70
+C257,Computer Vision,Business Analytics,Khan Academy,3,50
+C258,Artificial Intelligence,Artificial Intelligence,Khan Academy,2,40
+C259,Business Analytics,Computer Vision,edX,5,30
+C260,Cloud Computing,Artificial Intelligence,Pluralsight,4,50
+C261,Business Analytics,Statistics,Coursera,4,40
+C262,Computer Vision,Artificial Intelligence,Coursera,5,60
+C263,Business Analytics,Computer Vision,Pluralsight,4,40
+C264,Data Science,Artificial Intelligence,edX,1,30
+C265,Cloud Computing,Deep Learning,Pluralsight,5,40
+C266,Statistics for Data Science,Statistics,Pluralsight,3,40
+C267,Cloud Computing,Business Analytics,edX,5,70
+C268,Cloud Computing,Cloud Computing,Udemy,2,70
+C269,Deep Learning,Cloud Computing,FutureLearn,5,30
+C270,Data Engineering,Computer Vision,Khan Academy,1,50
+C271,Computer Vision,Cloud Computing,edX,5,70
+C272,Big Data Tools,Statistics,Udemy,5,60
+C273,Computer Vision,Deep Learning,Pluralsight,4,30
+C274,Cloud Computing,Computer Vision,Pluralsight,1,70
+C275,Python Programming,Computer Vision,Coursera,4,60
+C276,Natural Language Processing,Computer Vision,Coursera,5,40
+C277,Data Science,Artificial Intelligence,Coursera,2,30
+C278,Machine Learning,Artificial Intelligence,Coursera,1,30
+C279,Computer Vision,Machine Learning,edX,3,30
+C280,Data Science,Data Engineering,Khan Academy,4,70
+C281,Statistics for Data Science,Business Analytics,Coursera,4,70
+C282,Python Programming,Data Science,Udemy,4,70
+C283,Deep Learning,Statistics,FutureLearn,2,60
+C284,Python Programming,Data Engineering,edX,4,30
+C285,Python Programming,Deep Learning,Coursera,3,40
+C286,Data Science,Statistics,edX,5,70
+C287,Machine Learning,Artificial Intelligence,Udemy,1,70
+C288,Big Data Analytics,Artificial Intelligence,FutureLearn,3,50
+C289,Statistics for Data Science,Statistics,Coursera,5,30
+C290,Artificial Intelligence,Computer Vision,Khan Academy,4,30
+C291,Cloud Computing,Data Science,edX,1,30
+C292,Cloud Computing,Data Science,Pluralsight,1,60
+C293,Artificial Intelligence,Computer Vision,edX,1,30
+C294,Data Visualization,Data Engineering,Khan Academy,1,30
+C295,Big Data Tools,Big Data,FutureLearn,5,70
+C296,Artificial Intelligence,Data Engineering,Udemy,4,70
+C297,Time Series Analysis,Machine Learning,edX,2,50
+C298,Business Analytics,Artificial Intelligence,Udemy,4,70
+C299,Big Data Analytics,Statistics,Khan Academy,1,50
+C300,Data Engineering,Data Science,Udemy,2,70
+C301,Time Series Analysis,Big Data,edX,4,40
+C302,Machine Learning,Machine Learning,Khan Academy,5,40
+C303,Deep Learning,Big Data,FutureLearn,2,30
+C304,Time Series Analysis,Computer Vision,Khan Academy,3,60
+C305,Cloud Computing,Machine Learning,Pluralsight,3,60
+C306,Deep Learning,Computer Vision,Khan Academy,5,50
+C307,Data Science,Big Data,Pluralsight,5,30
+C308,Statistics for Data Science,Business Analytics,Pluralsight,4,40
+C309,Data Science,Cloud Computing,FutureLearn,1,70
+C310,Big Data Tools,Business Analytics,edX,3,50
+C311,Python Programming,Deep Learning,edX,2,30
+C312,Natural Language Processing,Business Analytics,Khan Academy,3,40
+C313,Statistics for Data Science,Big Data,FutureLearn,1,40
+C314,Deep Learning,Business Analytics,FutureLearn,4,50
+C315,Big Data Tools,Big Data,edX,4,50
+C316,Data Visualization,Deep Learning,Udemy,4,50
+C317,Big Data Analytics,Statistics,Pluralsight,3,70
+C318,Statistics for Data Science,Cloud Computing,Khan Academy,3,30
+C319,Business Analytics,Cloud Computing,Khan Academy,2,40
+C320,Big Data Analytics,Big Data,Khan Academy,4,50
+C321,Big Data Analytics,Big Data,Khan Academy,2,30
+C322,Big Data Analytics,Artificial Intelligence,Udemy,3,50
+C323,Machine Learning,Machine Learning,Udemy,4,40
+C324,Cloud Computing,Computer Vision,FutureLearn,5,30
+C325,Data Science,Statistics,Khan Academy,5,70
+C326,Data Science,Deep Learning,FutureLearn,1,60
+C327,Artificial Intelligence,Cloud Computing,edX,1,50
+C328,Time Series Analysis,Big Data,Pluralsight,1,60
+C329,Cloud Computing,Artificial Intelligence,Khan Academy,1,70
+C330,Python Programming,Computer Vision,Coursera,2,70
+C331,Natural Language Processing,Cloud Computing,edX,2,50
+C332,Big Data Tools,Cloud Computing,Pluralsight,4,60
+C333,Statistics for Data Science,Big Data,Coursera,2,50
+C334,Computer Vision,Statistics,Pluralsight,1,60
+C335,Big Data Analytics,Deep Learning,Udemy,5,30
+C336,Python Programming,Data Science,Khan Academy,5,40
+C337,Statistics for Data Science,Artificial Intelligence,edX,2,40
+C338,Artificial Intelligence,Big Data,Coursera,3,30
+C339,Statistics for Data Science,Statistics,Pluralsight,1,30
+C340,Deep Learning,Computer Vision,Khan Academy,3,40
+C341,Artificial Intelligence,Statistics,Udemy,4,40
+C342,Big Data Analytics,Data Science,Udemy,5,30
+C343,Deep Learning,Data Science,edX,4,60
+C344,Data Engineering,Big Data,edX,3,40
+C345,Deep Learning,Deep Learning,Khan Academy,4,70
+C346,Computer Vision,Cloud Computing,Pluralsight,5,70
+C347,Computer Vision,Artificial Intelligence,FutureLearn,5,70
+C348,Time Series Analysis,Machine Learning,FutureLearn,1,30
+C349,Big Data Analytics,Business Analytics,edX,1,40
+C350,Data Science,Machine Learning,Coursera,3,60
+C351,Natural Language Processing,Statistics,Udemy,3,70
+C352,Data Science,Computer Vision,edX,1,30
+C353,Machine Learning,Computer Vision,FutureLearn,4,70
+C354,Data Engineering,Business Analytics,Udemy,4,70
+C355,Data Science,Business Analytics,Khan Academy,1,50
+C356,Machine Learning,Machine Learning,edX,4,70
+C357,Statistics for Data Science,Statistics,edX,2,60
+C358,Artificial Intelligence,Cloud Computing,Pluralsight,1,40
+C359,Computer Vision,Statistics,FutureLearn,2,60
+C360,Time Series Analysis,Data Science,Pluralsight,4,60
+C361,Business Analytics,Computer Vision,Udemy,3,60
+C362,Statistics for Data Science,Data Science,Udemy,5,30
+C363,Data Visualization,Data Engineering,Khan Academy,4,60
+C364,Cloud Computing,Data Engineering,edX,4,60
+C365,Statistics for Data Science,Computer Vision,Khan Academy,3,60
+C366,Computer Vision,Machine Learning,Pluralsight,2,70
+C367,Time Series Analysis,Cloud Computing,edX,4,70
+C368,Artificial Intelligence,Deep Learning,Udemy,4,40
+C369,Business Analytics,Business Analytics,FutureLearn,2,60
+C370,Data Science,Deep Learning,Udemy,5,70
+C371,Computer Vision,Data Science,Coursera,1,50
+C372,Statistics for Data Science,Statistics,Udemy,3,70
+C373,Data Visualization,Data Science,FutureLearn,5,40
+C374,Big Data Analytics,Data Science,FutureLearn,1,50
+C375,Data Science,Data Science,Pluralsight,1,60
+C376,Deep Learning,Computer Vision,Khan Academy,2,70

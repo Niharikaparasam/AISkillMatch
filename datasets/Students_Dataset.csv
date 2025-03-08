@@ -1,0 +1,51 @@
+Student_ID,Name,Branch,Grades,Career_Goals,Previous_Courses
+S001,David Thomas,AIDS,8.74,Software Engineer,"['C027', 'C012', 'C014', 'C021', 'C029']"
+S002,Uma Davis,IS,7.84,Software Engineer,"['C011', 'C003', 'C005']"
+S003,Mia Thomas,CSE,8.89,Cybersecurity Specialist,['C017']
+S004,Tom Rodriguez,CSDS,8.8,Blockchain Developer,['C011']
+S005,Eve Moore,AIDS,9.46,ML Engineer,"['C012', 'C026', 'C025', 'C011', 'C021']"
+S006,Mia Johnson,AIML,7.42,ML Engineer,['C002']
+S007,Fiona Taylor,AIDS,7.03,Blockchain Developer,['C006']
+S008,Harry Johnson,IS,9.4,Cybersecurity Specialist,"['C004', 'C021', 'C016', 'C019', 'C005']"
+S009,Sophia Thomas,IS,7.44,Cybersecurity Specialist,"['C027', 'C013', 'C002']"
+S010,Mona Wilson,CSE,7.41,Blockchain Developer,"['C006', 'C003', 'C004', 'C024']"
+S011,Umar Brown,CSDS,7.1,Software Engineer,"['C003', 'C001']"
+S012,David Taylor,IS,7.08,ML Engineer,"['C010', 'C008']"
+S013,Willow Miller,CSE,7.35,Software Engineer,"['C030', 'C019']"
+S014,Penny Wilson,IS,8.74,ML Engineer,"['C029', 'C009', 'C016']"
+S015,Uma Martin,IS,8.65,Blockchain Developer,"['C025', 'C015']"
+S016,Kiran Martinez,CSDS,7.05,AI Researcher,"['C022', 'C001', 'C013']"
+S017,Jack Lopez,AIDS,9.72,Blockchain Developer,['C018']
+S018,Xander Thomas,AIDS,9.57,ML Engineer,"['C014', 'C024', 'C027', 'C017']"
+S019,Kiran Anderson,AIDS,8.05,Data Scientist,"['C002', 'C025', 'C021', 'C013', 'C015']"
+S020,Mona Anderson,AIDS,9.97,ML Engineer,['C010']
+S021,Hannah Rodriguez,CSE,7.84,ML Engineer,['C025']
+S022,Victor Brown,IS,7.53,Software Engineer,['C010']
+S023,Quincy Moore,CSE,7.28,Software Engineer,"['C014', 'C020']"
+S024,Jack Martin,AIDS,9.8,ML Engineer,"['C019', 'C028', 'C013', 'C002']"
+S025,Umar Taylor,AIML,6.83,Cybersecurity Specialist,['C012']
+S026,Bryan Jackson,CSDS,7.75,ML Engineer,"['C029', 'C008']"
+S027,Umar Thomas,AIDS,8.16,Cybersecurity Specialist,"['C025', 'C015', 'C007', 'C016', 'C008']"
+S028,Jay Davis,AIDS,7.29,Cloud Architect,"['C001', 'C021', 'C018']"
+S029,Willow Williams,CSDS,9.4,Software Engineer,"['C013', 'C003', 'C009', 'C029', 'C012']"
+S030,Bob Moore,CSDS,7.43,Blockchain Developer,"['C008', 'C014', 'C010', 'C005']"
+S031,Zane Anderson,AIDS,7.23,Blockchain Developer,"['C001', 'C020']"
+S032,Paul Lopez,CSDS,8.69,Software Engineer,['C016']
+S033,Olivia Martin,AIML,9.43,Software Engineer,"['C015', 'C008', 'C025', 'C018', 'C009']"
+S034,Wendy Jones,IS,7.24,Software Engineer,"['C006', 'C025', 'C018', 'C005']"
+S035,Hannah Gonzalez,IS,6.62,Cybersecurity Specialist,"['C017', 'C030', 'C023', 'C022']"
+S036,Oscar Rodriguez,CSDS,7.05,ML Engineer,"['C007', 'C005', 'C012', 'C019']"
+S037,Kathy Anderson,AIDS,7.99,ML Engineer,"['C020', 'C002', 'C004', 'C016', 'C018']"
+S038,Fiona Davis,CSE,9.07,AI Researcher,"['C006', 'C010', 'C003']"
+S039,Gianna Martinez,AIML,9.13,Blockchain Developer,"['C025', 'C016']"
+S040,Dean Rodriguez,AIML,9.89,ML Engineer,"['C012', 'C026', 'C006', 'C016', 'C017']"
+S041,Mona Smith,CSDS,8.58,Software Engineer,['C021']
+S042,Mia Moore,CSDS,9.18,Blockchain Developer,"['C019', 'C018', 'C026']"
+S043,Jay Hernandez,AIML,8.98,AI Researcher,"['C005', 'C004', 'C021']"
+S044,Ryan Martinez,AIDS,7.35,Cloud Architect,['C008']
+S045,Vikram Williams,AIDS,9.36,Data Scientist,"['C010', 'C022', 'C027']"
+S046,Grace Martinez,AIML,9.18,Software Engineer,"['C030', 'C019', 'C018', 'C020']"
+S047,Olivia Jones,IS,7.19,Cybersecurity Specialist,['C015']
+S048,Jay Davis,CSDS,6.62,AI Researcher,"['C010', 'C001', 'C027', 'C021', 'C011']"
+S049,Grace Hernandez,AIML,8.12,Software Engineer,"['C030', 'C024', 'C002', 'C010']"
+S050,Paul Miller,CSDS,8.22,AI Researcher,"['C029', 'C015', 'C020', 'C023', 'C014']"

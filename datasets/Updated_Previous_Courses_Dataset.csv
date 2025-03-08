@@ -1,0 +1,148 @@
+Student_ID,Course_ID,Completion_Status,Grade
+S001,C027,Completed,A-
+S001,C012,In Progress,B
+S001,C014,In Progress,B+
+S001,C021,In Progress,B+
+S001,C029,In Progress,B+
+S002,C011,In Progress,A
+S002,C003,Completed,B
+S002,C005,Completed,B
+S003,C017,Completed,B
+S004,C011,Completed,B+
+S005,C012,Completed,B+
+S005,C026,Completed,A
+S005,C025,Completed,B+
+S005,C011,Completed,A-
+S005,C021,Completed,A
+S006,C002,Completed,A
+S007,C006,In Progress,A-
+S008,C004,In Progress,A
+S008,C021,In Progress,B+
+S008,C016,Completed,B
+S008,C019,Completed,B+
+S008,C005,In Progress,B
+S009,C027,In Progress,A-
+S009,C013,Completed,A
+S009,C002,Completed,B+
+S010,C006,In Progress,C+
+S010,C003,Completed,B
+S010,C004,Completed,B+
+S010,C024,Completed,B+
+S011,C003,Completed,A
+S011,C001,In Progress,B+
+S012,C010,Completed,A
+S012,C008,In Progress,C+
+S013,C030,Completed,C+
+S013,C019,Completed,A
+S014,C029,Completed,C+
+S014,C009,In Progress,B
+S014,C016,In Progress,B+
+S015,C025,Completed,B
+S015,C015,Completed,B
+S016,C022,Completed,A
+S016,C001,Completed,B+
+S016,C013,In Progress,C+
+S017,C018,In Progress,B+
+S018,C014,Completed,A-
+S018,C024,In Progress,A-
+S018,C027,Completed,B+
+S018,C017,Completed,B+
+S019,C002,In Progress,C+
+S019,C025,In Progress,A-
+S019,C021,Completed,A-
+S019,C013,Completed,A
+S019,C015,In Progress,C+
+S020,C010,Completed,B
+S021,C025,In Progress,B+
+S022,C010,Completed,A-
+S023,C014,In Progress,C+
+S023,C020,In Progress,A
+S024,C019,In Progress,B
+S024,C028,In Progress,C+
+S024,C013,In Progress,B
+S024,C002,In Progress,C+
+S025,C012,Completed,A-
+S026,C029,Completed,A
+S026,C008,In Progress,A-
+S027,C025,Completed,B
+S027,C015,In Progress,B
+S027,C007,In Progress,A
+S027,C016,Completed,B+
+S027,C008,Completed,C+
+S028,C001,In Progress,B+
+S028,C021,In Progress,C+
+S028,C018,Completed,B+
+S029,C013,Completed,B+
+S029,C003,Completed,C+
+S029,C009,Completed,A-
+S029,C029,Completed,A-
+S029,C012,Completed,C+
+S030,C008,Completed,A-
+S030,C014,In Progress,B
+S030,C010,In Progress,B+
+S030,C005,Completed,B
+S031,C001,Completed,B
+S031,C020,Completed,A-
+S032,C016,In Progress,A-
+S033,C015,In Progress,A
+S033,C008,Completed,A-
+S033,C025,In Progress,B+
+S033,C018,In Progress,A
+S033,C009,Completed,B+
+S034,C006,In Progress,B
+S034,C025,In Progress,B+
+S034,C018,Completed,A
+S034,C005,Completed,A
+S035,C017,Completed,A
+S035,C030,Completed,B
+S035,C023,In Progress,B+
+S035,C022,Completed,A
+S036,C007,In Progress,A-
+S036,C005,In Progress,B+
+S036,C012,In Progress,B
+S036,C019,Completed,B
+S037,C020,In Progress,B+
+S037,C002,Completed,A
+S037,C004,Completed,A
+S037,C016,Completed,B+
+S037,C018,Completed,B+
+S038,C006,In Progress,B
+S038,C010,Completed,A-
+S038,C003,Completed,A
+S039,C025,In Progress,A-
+S039,C016,In Progress,C+
+S040,C012,In Progress,A-
+S040,C026,In Progress,C+
+S040,C006,Completed,B
+S040,C016,Completed,A
+S040,C017,In Progress,A-
+S041,C021,Completed,B
+S042,C019,Completed,B
+S042,C018,Completed,A-
+S042,C026,In Progress,B+
+S043,C005,Completed,A
+S043,C004,In Progress,B+
+S043,C021,Completed,A-
+S044,C008,In Progress,B+
+S045,C010,Completed,A-
+S045,C022,In Progress,A
+S045,C027,In Progress,B
+S046,C030,In Progress,A-
+S046,C019,Completed,B
+S046,C018,In Progress,A-
+S046,C020,Completed,A-
+S047,C015,Completed,B+
+S048,C010,In Progress,A
+S048,C001,In Progress,B+
+S048,C027,In Progress,A
+S048,C021,Completed,B
+S048,C011,In Progress,B
+S049,C030,Completed,A
+S049,C024,Completed,B+
+S049,C002,Completed,C+
+S049,C010,Completed,A-
+S050,C029,In Progress,B+
+S050,C015,In Progress,C+
+S050,C020,Completed,C+
+S050,C023,In Progress,A-
+S050,C014,In Progress,A-
